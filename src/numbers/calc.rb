@@ -16,11 +16,9 @@
 
 # ¿Cuántas horas hay en un año?
 puts "¿Cuántas horas hay en un año?"
-
 puts 365 * 24
 
 # ¿Cuántos minutos hay en una década?
-
 puts "¿Cuántos minutos hay en una década?"
 puts (365 * 10) * (24 * 60)
 
@@ -31,4 +29,3 @@ puts 26 * (365 * 24 * 3600)
 # ¿Cuántos chocolates esperas comer en tu vida?
 puts "¿Cuántos chocolates esperas comer en tu vida?"
 puts 2 * (24 * 52)
-
