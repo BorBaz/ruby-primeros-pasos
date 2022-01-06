@@ -8,7 +8,7 @@ def answer question
   answers = ['Si', 'No', 'Sumay', 'Es probable', 'El perro de chino', 'Nunca', 'Muchos']
   index = rand(6)
 
-  if question.downcase.include? 'coches'
+  if question.downcase.include? 'droga'
     index = 2
   end
   puts answers[index]
